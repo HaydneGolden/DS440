@@ -1,0 +1,13 @@
+name: shinyapp
+title:
+username:
+account: vaccine-io
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8753681
+bundleId: 7090688
+url: https://vaccine-io.shinyapps.io/shinyapp/
+when: 1681495260.24642
+lastSyncTime: 1681495260.24643
+asMultiple: FALSE
+asStatic: FALSE
